@@ -33,6 +33,8 @@ npm start
 	  - This is needed to prevent other candidates from finding your solution.
 - Your repo should be easy to setup with clear instruction.
 - (Optional) Deploy as a public site to your own host.
+- (Optional) PWA
+- (Optional) Mobile Responsive
 
 ### Expection
 - This challange should take around 4 hours to complete.
@@ -42,6 +44,9 @@ npm start
 - Avoid over-engineering.
 - Error handling and retry if backend is busy.
 - Be cautious of third-party library usage. (Don't include a 300KB library only for 1 helper function)
+
+### Recommand Tech Stack
+- We switching most of our projects from jQuery to React. We aim for reusable components and maintainable codebase when expansion, but feel free to use other tech if you prefer.
 
 ### Wireframe
 *For reference only, you can be creative with design and UI/UX features.*
